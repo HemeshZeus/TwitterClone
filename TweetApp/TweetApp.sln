@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.tweetapp.webapi", "src\com.tweetapp.webapi\com.tweetapp.webapi.csproj", "{CF0CCED8-7BCC-436F-BF41-C1C39D2E5631}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.tweetapp.service", "src\com.tweetapp.service\com.tweetapp.service.csproj", "{D999074D-F3B8-4A60-BBC0-31E7A61EE718}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.tweetapp.DAO", "src\com.tweetapp.DAO\com.tweetapp.DAO.csproj", "{58E9A10D-4F3A-44FB-90FE-994D451AF50C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0CCED8-7BCC-436F-BF41-C1C39D2E5631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0CCED8-7BCC-436F-BF41-C1C39D2E5631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0CCED8-7BCC-436F-BF41-C1C39D2E5631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0CCED8-7BCC-436F-BF41-C1C39D2E5631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D999074D-F3B8-4A60-BBC0-31E7A61EE718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D999074D-F3B8-4A60-BBC0-31E7A61EE718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D999074D-F3B8-4A60-BBC0-31E7A61EE718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D999074D-F3B8-4A60-BBC0-31E7A61EE718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E9A10D-4F3A-44FB-90FE-994D451AF50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E9A10D-4F3A-44FB-90FE-994D451AF50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E9A10D-4F3A-44FB-90FE-994D451AF50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E9A10D-4F3A-44FB-90FE-994D451AF50C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4915CFE8-F0D5-4F0E-9079-47103A78986F}
+	EndGlobalSection
+EndGlobal
